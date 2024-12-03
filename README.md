@@ -1,5 +1,6 @@
 # quantprojects
-Excel Insights Automation Toolkit
+# Excel Insights Automation Toolkit
+
 This project is an extended initiative I took on during my internship to streamline data analysis and reporting tasks directly in Excel. The toolkit uses Python to automate data processing, create insightful visualizations, and embed them back into Excel files—saving time and effort for teams working with large datasets.
 What It Does:
 Pie Chart Visualization: Automatically aggregates data (e.g., "Yes," "No," "Maybe" responses) from multiple sheets and creates a pie chart to highlight trends. The chart is embedded directly in the workbook for easy sharing.
